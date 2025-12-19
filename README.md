@@ -19,7 +19,7 @@ To develop a comprehensive **credit card weekly dashboard** that provides real-t
 - Tables Used:
   - Credit Card Transaction Details
   - Customer Details
-- Granularity: **Weekly & Quarterly**
+- Granularity(Level of Detail): **Weekly & Quarterly**
 
 ---
 
