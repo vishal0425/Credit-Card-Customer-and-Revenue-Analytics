@@ -63,7 +63,8 @@ To develop a comprehensive **credit card weekly dashboard** that provides real-t
   - Revenue by Marital Status
   - Revenue by Dependent Count
 - Gender-based and quarterly comparisons
-
+> 📂 Dashboard Link:  
+[Click here to access the dataset](https://drive.google.com/file/d/1WOfHBVT7Ps_huP1KDFKW-DuGGbH5yR1N/view?usp=drive_link)
 ---
 
 ## 📈 Key Insights
